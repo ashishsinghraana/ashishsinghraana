@@ -115,11 +115,11 @@ Vibe       : Anime + Tech + Startups = 🔥
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashishsinghraana&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00fff5&icon_color=ff6ec7&text_color=ffffff&border_color=1a1a2e&border_radius=15" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theghost277001-cell&theme=radical&background=0d0d0d&ring=00fff5&fire=ff6ec7&currStreakLabel=a855f7&border=1a1a2e&border_radius=15" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsinghraana&theme=radical&background=0d0d0d&ring=00fff5&fire=ff6ec7&currStreakLabel=a855f7&border=1a1a2e&border_radius=15" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theghost277001-cell&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&border_color=1a1a2e&border_radius=15" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsinghraana&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&border_color=1a1a2e&border_radius=15" width="45%"/>
 
 </div>
 
@@ -130,7 +130,7 @@ Vibe       : Anime + Tech + Startups = 🔥
 
 ## 🔥 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theghost277001-cell&bg_color=0d0d0d&color=00fff5&line=ff6ec7&point=a855f7&area=true&hide_border=true&radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishsinghraana&bg_color=0d0d0d&color=00fff5&line=ff6ec7&point=a855f7&area=true&hide_border=true&radius=10" width="95%"/>
 
 </div>
 
